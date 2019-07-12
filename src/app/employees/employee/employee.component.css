@@ -1,0 +1,9 @@
+.controles-container > *{
+    display: block;
+    width: 100%;
+    /* background-color: gray; */
+}
+
+mat-radio-group mat-radio-button{
+    margin-left: 5px;
+}
